@@ -147,9 +147,10 @@ h2 {
 
 .card {
     background: #111111;
-    border: 1px solid #333333;
-    width: 350px;
+    border: thin solid #333333;
+    width: 300px;
     transition: all 0.3s ease;
+    border-radius: 2px;
 }
 
 .card:hover {
@@ -182,7 +183,7 @@ h2 {
 
 .split-container {
     display: flex;
-    gap: 50px;
+    gap: 100px;
 }
 
 .column {
