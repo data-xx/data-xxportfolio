@@ -125,7 +125,7 @@ h2 {
 .image-border img {
     width: 100%;
     filter: grayscale(100%);
-    opacity: 0.6;
+    opacity: 0.3;
 }
 
 
